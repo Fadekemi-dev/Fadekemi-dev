@@ -46,7 +46,7 @@ Outside of tech and compliance, I enjoy:
 
 ## Current Focus
 
-I am currently learning and building projects around:
+I am currently working and building projects around:
 - Cybersecurity Governance, Risk & Compliance (GRC)
 - Security Frameworks
 - Risk Assessment
